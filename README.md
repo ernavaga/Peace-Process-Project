@@ -3,3 +3,5 @@ Codes were used to data visualization for UOC project about PA-X Agreements data
 
 In this space you can find variable definitions and new names in txt files, which were used for tableau viz:
 https://public.tableau.com/views/PEACEAGREEMENTS_15917634344550/Abrieflookatpeaceprocessesfrom1990to2019?:display_count=y&publish=yes&:origin=viz_share_link
+
+If you want to check variables' meanings, please go to https://www.peaceagreements.org/search and downdload Codebook for Version 3.
